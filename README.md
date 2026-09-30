@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Abony 👋
 
-<!--
-**Abony0923/Abony0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Graduate | Robotics • AI/ML • Computer Vision
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering graduate from BRAC University
+with hands-on experience in software development, robotics, and
+applied AI/ML projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on practical technical problems and collaborating
+on multidisciplinary projects.
+
+
+## Technical Skills
+
+**Languages:** Python, C/C++, Java, SQL
+
+**Web & Backend:** Flask, React, MySQL
+
+**Areas:** Robotics, Computer Vision, AI/ML, Software Engineering
+
+**Tools:** Git, GitHub, Linux, Arduino
+
+
+##  Featured Work
+
+### 🤖 Robotics
+Contributed in multiple robotics projects with experience in robotics systems and technical development.
+
+### 💻 Software Engineering
+Built full-stack applications involving backend systems,
+databases, APIs, and user-facing interfaces.
+
+### Research
+Interested in applied AI/ML, computer vision, and robotics research.
+
+
+## Education
+
+**B.Sc. in Computer Science & Engineering**  
+BRAC University
